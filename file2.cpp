@@ -18,4 +18,6 @@ int main(){
 
     cout <<"Masukan nilai Bahasa Inggris = ";
     cin >> nilBl;
+    cout <<"Masukan nilai Matematika = ";
+    cin >> nilMT;
 } 
