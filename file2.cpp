@@ -15,4 +15,7 @@ string Status_lulus(float r){
 int main(){
     float nilBl,nilMT,rerata;
     string status;
-}
+
+    cout <<"Masukan nilai Bahasa Inggris = ";
+    cin >> nilBl;
+} 
